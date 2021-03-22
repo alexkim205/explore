@@ -1,5 +1,6 @@
 ---
 items:
+ - AtomicCodeLabs/chummy
  - ovity/octotree
  - mike-north/chrome-github-boxcutter
  - muan/github-dashboard
